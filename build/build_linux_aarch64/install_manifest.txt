@@ -1,0 +1,5 @@
+/home/ztl/person/install/rknn_yolov5_3588_new_Linux/./rknn_yolov5_3588_bytetrack
+/home/ztl/person/install/rknn_yolov5_3588_new_Linux/.//model/best_nofocus_new_21x80x80.rknn
+/home/ztl/person/install/rknn_yolov5_3588_new_Linux/.//model/yolov5s-640-640.rknn
+/home/ztl/person/install/rknn_yolov5_3588_new_Linux/.//model/labels.txt
+/home/ztl/person/install/rknn_yolov5_3588_new_Linux/.//model/PRC_9resize.mp4
